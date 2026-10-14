@@ -1,0 +1,5 @@
+forge-std/=lib/forge-std/src/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+permit2/=lib/permit2/
+@balancer-v3-monorepo/interfaces/=lib/balancer-v3-monorepo/pkg/interfaces/contracts/
+@balancer-v3-monorepo/solidity-utils/=lib/balancer-v3-monorepo/pkg/solidity-utils/contracts/
